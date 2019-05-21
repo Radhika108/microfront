@@ -2,10 +2,6 @@
 
 > Simulate a micro frontend project using NodeJS, React and NGinx Reverse Proxy in Alpine Docker images
 
-This project is based on [my talk at JSConf.Asia 2018 about Micro Frontend applications](https://goo.gl/KK7K4N).
-
-- Slides: https://goo.gl/51sDkh
-- Youtube video: https://goo.gl/KK7K4N
 
 ## Setup
 
@@ -57,8 +53,3 @@ The folder `items-page` is the list of items page of our project. The page has a
 
 ## Author
 
-**Wilson Mendes (willmendesneto)**
-
-- <https://plus.google.com/+WilsonMendes>
-- <https://twitter.com/willmendesneto>
-- <http://github.com/willmendesneto>
